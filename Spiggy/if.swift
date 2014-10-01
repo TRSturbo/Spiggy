@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  If.swift
 //  Spiggy
 //
 //  Created by Aaron Tharpe and Kevin Cooper on 9/30/14.
